@@ -1,0 +1,8 @@
+google colab ile çalıştıracaksanız drive'ınızı bağlayın dosya yollarını güncelleyerek test ve train isimli klasörleri colab'e ekleyin.
+eğer kendi kişisel bilgisayarınız ile çalıştıracaksanız kod ile aynı konuma test ve train klasörlerini koyun. ilk kod bloklarını atlayın
+
+gerekli kütüphaneler başlangıçtaki kod bloklarını sırası ile çalıştırarak kurulmaktadır.
+
+programın çalışması için ilk önce model train edilmeli ya da önceden train edilmiş model verilmelidir.
+train için json dosyaları ile resimlerin bulunduğu test ve train isimli klasörlere sahip olmanız gerekmektedir.
+

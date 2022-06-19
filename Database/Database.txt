@@ -1,0 +1,2 @@
+Çocuk X-ray panaromik diş görüntüleri: Veri seti Danışman hoca tarafından bize verilmiştir.
+İşaretlenmiş json dosyaları: json dosyaları bizim tarafımızdan elle hazırlanmıştır.
